@@ -1,0 +1,37 @@
+* {
+  border-radius: 5px;
+}
+
+#title {
+  height: 35px;
+  font-weight: 500;
+  border: 2px solid #2c638a;
+}
+.card {
+  width: 34em !important;
+  margin: 3px auto !important;
+  text-align: center;
+  border: none !important;
+}
+.card-body {
+  width: 34em !important;
+}
+.addednotes {
+  width: 100% !important;
+  border: 2px solid grey;
+}
+
+.textarea {
+  width: 100% !important;
+  border: 2px solid #2c638a;
+}
+
+.row {
+  border-top: 2px solid grey;
+  padding-top: 23px !important;
+  margin-top: 23px;
+  margin-bottom: 54px;
+}
+.notecard {
+  width: 22em !important;
+}
