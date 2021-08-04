@@ -57,10 +57,6 @@ function deletefunc(index) {
   printnote();
 }
 
-//NOTE:::for deleting functions we didn't used the addeventlistner click as  all delete have different ids adn we dont know which note's delete is clicked so we don't know the elelmtnt ...as we need element.addeventlistenr()...
-//so we used an attribute onclick...in html of the card only ...and gave fucntion deletefunc..see line 39;;;
-
-//search functionality
 
 searchbar = document.getElementById("searchbar");
 notecards = document.getElementsByClassName("notecard");
